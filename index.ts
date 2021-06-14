@@ -1,4 +1,5 @@
-import { schema, rules } from '@ioc:Adonis/Core/Validator'
+import { rules } from '@adonisjs/validator/build/src/Rules'
+import { schema } from '@adonisjs/validator/build/src/Schema'
 
 export default abstract class GenericValidator {
   constructor(protected readonly tableName: string, protected readonly mainColumn: string = 'id') {}
