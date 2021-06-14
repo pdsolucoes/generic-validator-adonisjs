@@ -1,9 +1,16 @@
 {
-  "name": "generic-validator-adonisjs",
+  "name": "pds-generic-validator-adonisjs",
   "version": "1.0.0",
   "description": "Generic Validator to AdonisJS 5.0",
   "main": "index.ts",
   "repository": "https://github.com/pdsolucoes/generic-validator-adonisjs.git",
   "author": "PD Soluções",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  },
+  "dependencies": {
+    "@adonisjs/validator": "^11.0.2",
+    "adonis-preset-ts": "^2.1.0"
+  }
 }
