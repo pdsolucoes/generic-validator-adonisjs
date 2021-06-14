@@ -2,7 +2,11 @@
   "name": "pds-generic-validator-adonisjs",
   "version": "1.0.0",
   "description": "Generic Validator to AdonisJS 5.0",
-  "main": "index.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
   "repository": "https://github.com/pdsolucoes/generic-validator-adonisjs.git",
   "author": "PD Soluções",
   "license": "MIT",
