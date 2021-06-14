@@ -1,0 +1,9 @@
+{
+  "name": "generic-validator-adonisjs",
+  "version": "1.0.0",
+  "description": "Generic Validator to AdonisJS 5.0",
+  "main": "index.ts",
+  "repository": "https://github.com/pdsolucoes/generic-validator-adonisjs.git",
+  "author": "PD Soluções",
+  "license": "MIT"
+}
