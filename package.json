@@ -1,6 +1,6 @@
 {
-  "name": "pds-generic-validator-adonisjs",
-  "version": "1.1.0",
+  "name": "generic-validator-adonisjs-5",
+  "version": "1.0.0",
   "description": "Generic Validator to AdonisJS 5.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
