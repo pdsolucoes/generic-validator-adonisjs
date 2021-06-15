@@ -1,5 +1,5 @@
 {
-  "name": "generic-validator-adonisjs-5",
+  "name": "@pd-solucoes/generic-validator-adonisjs5",
   "version": "1.0.0",
   "description": "Generic Validator to AdonisJS 5.0",
   "main": "dist/index.js",
@@ -16,5 +16,8 @@
   "dependencies": {
     "@adonisjs/validator": "^11.0.2",
     "adonis-preset-ts": "^2.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
