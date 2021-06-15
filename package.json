@@ -1,6 +1,6 @@
 {
   "name": "@pd-solucoes/generic-validator-adonisjs5",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generic Validator to AdonisJS 5.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -13,6 +13,11 @@
   "devDependencies": {
     "typescript": "^4.3.2"
   },
+  "keywords": [
+    "adonis",
+    "validator",
+    "generic crud"
+  ],
   "dependencies": {
     "@adonisjs/validator": "^11.0.2",
     "adonis-preset-ts": "^2.1.0"
