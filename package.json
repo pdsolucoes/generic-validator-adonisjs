@@ -13,6 +13,11 @@
   "devDependencies": {
     "typescript": "^4.3.2"
   },
+  "keywords": [
+    "adonis",
+    "validator",
+    "generic crud"
+  ],
   "dependencies": {
     "@adonisjs/validator": "^11.0.2",
     "adonis-preset-ts": "^2.1.0"
